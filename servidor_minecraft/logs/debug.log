@@ -577,3 +577,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Mar2025 10:55:43.087] [Server thread/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3756949a
 [09Mar2025 11:00:43.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Mar2025 11:00:43.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 11:05:43.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 11:05:43.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 11:05:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[09Mar2025 11:10:43.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 11:10:43.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 11:13:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000

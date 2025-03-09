@@ -93,3 +93,5 @@
 [09Mar2025 10:55:43.055] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 23489 ms
 [09Mar2025 10:55:43.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.628s)! For help, type "help"
 [09Mar2025 10:55:43.070] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Mar2025 11:05:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[09Mar2025 11:13:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
